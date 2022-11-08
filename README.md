@@ -2,5 +2,4 @@
 
 Testing changes
 
-
-Testin from Github directly and commiting from the same place
+Testing from Github directly and commiting from the same place
